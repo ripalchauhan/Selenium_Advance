@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore build artifacts
+target/
+bin/
+*.class
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
