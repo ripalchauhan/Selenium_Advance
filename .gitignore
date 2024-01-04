@@ -11,3 +11,8 @@ bin/
 
 # Ignore test output directory
 test-output/
+
+# Ignore specific index.html files
+test-output/index.html
+test-output/old/index.html
+test-output/old/Default suite/index.html
